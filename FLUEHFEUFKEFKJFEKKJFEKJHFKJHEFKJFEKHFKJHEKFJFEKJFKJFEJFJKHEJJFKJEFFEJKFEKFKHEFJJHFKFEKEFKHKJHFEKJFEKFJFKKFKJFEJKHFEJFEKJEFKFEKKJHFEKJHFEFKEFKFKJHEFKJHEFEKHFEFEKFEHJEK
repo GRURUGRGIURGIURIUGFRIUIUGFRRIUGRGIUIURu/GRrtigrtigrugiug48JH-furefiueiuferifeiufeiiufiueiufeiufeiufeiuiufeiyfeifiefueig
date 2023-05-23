@@ -1,4 +1,1 @@
 local key = "KEY_BESTSCRIPTHUB"
-if Player.Name == "sorryy_imyou" or Player.Name == "Slavik348" or Player.Name == "Delta7366" or Player.Name == Player.Name then
-    textbs:Label(key)
-end
